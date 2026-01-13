@@ -75,7 +75,17 @@ body {
     background-color: rgb(57, 107, 201);
     text-align: left;
     
+    
   }
+
+.eyes {
+  
+  width: 90px;
+  position: absolute;
+  top: -90px;
+  left:0;
+  
+}
 
 .text {
       font-family: "DM Sans", sans-serif;
@@ -89,4 +99,14 @@ body {
     margin-left: 15px;
     border-radius:20px;
 
+}
+.card {
+    position: relative;
+}
+
+.cube {
+    width: 90px;
+  position: absolute;
+  top: -90px;
+  left:0;
 }
