@@ -4,21 +4,33 @@ body {
 
 .app-header-card {
     
-     font-family: "DM Sans", sans-serif;
+    font-family: "DM Sans", sans-serif;
 }
 h1 {
-font-family: "Sigmar", sans-serif;
+    font-family: "Sigmar", sans-serif;
 }
 
-p {
-   font-family: "DM Sans", sans-serif; 
-   margin-top: 20px;
-   margin-bottom: 20px;
+.app-header1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left:10px;
 }
-.card {
-  border: 3px solid black ;
-  margin: 20px;
-  padding: 15px;
-  width: 200px;
+.app-header2{
+    font-family: "DM Sans", sans-serif; 
+     border: 3px solid black ;
+    margin: 20px;
+    padding: 15px;
+     width: 200px;
+    border-radius: 8px; 
+    text-align: center;
+}
+.app-header3{
+    font-family: "DM Sans", sans-serif; 
+    border: 3px solid black ;
+    margin: 20px;
+    padding: 15px;
+     width: 250px;
+    border-radius: 8px; 
+    text-align: center;
 
   }
