@@ -8,7 +8,7 @@ body {
     font-family: "DM Sans", sans-serif;
 }
 
-h1 {
+.title {
     font-family: "Sigmar", sans-serif;
     color: white;
     text-align: center;
@@ -26,7 +26,7 @@ h1 {
   margin-left: 75px;
   margin-right: 75px;
 }
-.app-header2{
+.wireframe_card2{
     font-family: "DM Sans", sans-serif; 
      border: 3px solid black ;
     margin-left: 125px;
@@ -37,7 +37,7 @@ h1 {
     background-color: rgb(240, 237, 237);
 
 }
-.app-header3{
+.wireframe_card{
     font-family: "DM Sans", sans-serif; 
     border: 3px solid black ;
     margin-left: 125px;
@@ -51,4 +51,21 @@ h1 {
   }
   img{
     width: 520px;
+    
   }
+  .app-main {
+     font-family: "Sigmar", sans-serif;
+    color: white;
+    margin-left:70px;
+    border: 1px solid black ;
+    margin-top: 10px;
+    padding: 35px;
+    width: 300px;
+    border-radius: 20px; 
+    background-color: rgb(52, 105, 204);
+    
+  }
+
+.text {
+      font-family: "DM Sans", sans-serif;
+}
