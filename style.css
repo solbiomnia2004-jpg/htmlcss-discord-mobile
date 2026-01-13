@@ -1,3 +1,24 @@
 body {
     width: 512px;
 }
+
+.app-header-card {
+    
+     font-family: "DM Sans", sans-serif;
+}
+h1 {
+font-family: "Sigmar", sans-serif;
+}
+
+p {
+   font-family: "DM Sans", sans-serif; 
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.card {
+  border: 3px solid black ;
+  margin: 20px;
+  padding: 15px;
+  width: 200px;
+
+  }
