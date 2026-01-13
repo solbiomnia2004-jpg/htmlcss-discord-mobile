@@ -34,10 +34,12 @@ body {
 }
 .wireframe_card2{
     font-family: "DM Sans", sans-serif; 
-     border: 3px solid black ;
-    margin-left: 125px;
+     border: 2px solid black ;
+    margin-left: 115px;
+    margin-bottom: 10px;
+    margin-top: 20px;
     padding: 15px;
-     width: 250px;
+     width: 300px;
     border-radius: 20px; 
     text-align: center;
     background-color: rgb(240, 237, 237);
@@ -45,10 +47,11 @@ body {
 }
 .wireframe_card{
     font-family: "DM Sans", sans-serif; 
-    border: 3px solid black ;
-    margin-left: 125px;
+    border: 2px solid black ;
+    margin-left: 115px;
+    margin-bottom: 70px;
     padding: 15px;
-    width: 250px;
+    width: 300px;
     border-radius: 20px; 
     text-align: center;
     background-color: rgb(74, 74, 248);
@@ -62,16 +65,28 @@ body {
   .app-main {
      font-family: "Sigmar", sans-serif;
     color: white;
-    margin-left:70px;
+    margin-left:40px;
     border: 1px solid black ;
     margin-top: 10px;
+    margin-bottom: 100px;
     padding: 35px;
-    width: 300px;
+    width: 450px;
     border-radius: 20px; 
-    background-color: rgb(52, 105, 204);
+    background-color: rgb(57, 107, 201);
+    text-align: left;
     
   }
 
 .text {
       font-family: "DM Sans", sans-serif;
+      margin-top: 15px;
+      text-align: left;
+}
+.picture {
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    border-radius:20px;
+
 }
